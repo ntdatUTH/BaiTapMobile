@@ -1,0 +1,13 @@
+#Tue Mar 11 16:08:55 ICT 2025
+base.0=E\:\\MobileAppDeveloper\\BaiTap\\bai_tap_tuan_2\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+base.1=E\:\\MobileAppDeveloper\\BaiTap\\bai_tap_tuan_2\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.2=E\:\\MobileAppDeveloper\\BaiTap\\bai_tap_tuan_2\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\3\\classes.dex
+base.3=E\:\\MobileAppDeveloper\\BaiTap\\bai_tap_tuan_2\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\4\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=3/classes.dex
+path.3=4/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex

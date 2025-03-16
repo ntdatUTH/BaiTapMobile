@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.bai_tap_2_1.app-mergeDebugResources-49:/layout/fragment_home.xml",
+        "source": "com.example.bai_tap_2_1.app-main-52:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.bai_tap_2_1.app-mergeDebugResources-49:/layout/activity_main2.xml",
+        "source": "com.example.bai_tap_2_1.app-main-52:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "com.example.bai_tap_2_1.app-mergeDebugResources-49:/layout/fragment_notifications.xml",
+        "source": "com.example.bai_tap_2_1.app-main-52:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "com.example.bai_tap_2_1.app-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "com.example.bai_tap_2_1.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.bai_tap_2_1.app-mergeDebugResources-49:/layout/fragment_dashboard.xml",
+        "source": "com.example.bai_tap_2_1.app-main-52:/layout/fragment_dashboard.xml"
+    }
+]

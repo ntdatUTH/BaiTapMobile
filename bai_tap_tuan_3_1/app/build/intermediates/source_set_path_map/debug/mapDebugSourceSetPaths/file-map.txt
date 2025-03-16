@@ -1,0 +1,54 @@
+com.example.jetpackcomposetest.app-ui-graphics-release-0 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\0252a2f3aed11de572ec53511b8becca\transformed\ui-graphics-release\res
+com.example.jetpackcomposetest.app-ui-tooling-release-1 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\04f2763ef7d4f9a7c9270b3bbc4f30a4\transformed\ui-tooling-release\res
+com.example.jetpackcomposetest.app-graphics-path-1.0.1-2 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\072c96902e7b5cc253181b16ee0d66dc\transformed\graphics-path-1.0.1\res
+com.example.jetpackcomposetest.app-lifecycle-process-2.9.0-alpha12-3 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\111a2a62d138f2b85244bf844df5c03d\transformed\lifecycle-process-2.9.0-alpha12\res
+com.example.jetpackcomposetest.app-material-ripple-release-4 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\13c9f1fca43281841d385db5482e17c2\transformed\material-ripple-release\res
+com.example.jetpackcomposetest.app-profileinstaller-1.4.0-5 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\170233b02d8e82bff223c18f8b71233a\transformed\profileinstaller-1.4.0\res
+com.example.jetpackcomposetest.app-customview-poolingcontainer-1.0.0-6 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\18b2fd4cc5993dab0fcd51da16d8b5c6\transformed\customview-poolingcontainer-1.0.0\res
+com.example.jetpackcomposetest.app-activity-1.10.1-7 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\1dbd4ff398b914d0b8f356d09cdc3428\transformed\activity-1.10.1\res
+com.example.jetpackcomposetest.app-annotation-experimental-1.4.1-8 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\1e06e5cccad172345661abc9dc40683b\transformed\annotation-experimental-1.4.1\res
+com.example.jetpackcomposetest.app-lifecycle-viewmodel-savedstate-release-9 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\207a7f334cd966a7516fafb279f801b3\transformed\lifecycle-viewmodel-savedstate-release\res
+com.example.jetpackcomposetest.app-ui-tooling-data-release-10 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\22ab5b3e048c30d59ead33c2dfd18546\transformed\ui-tooling-data-release\res
+com.example.jetpackcomposetest.app-lifecycle-viewmodel-release-11 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\25f87314722a390642d76537d567ac5c\transformed\lifecycle-viewmodel-release\res
+com.example.jetpackcomposetest.app-ui-text-release-12 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\2c34f69f4726096c9fdd6960ae112922\transformed\ui-text-release\res
+com.example.jetpackcomposetest.app-navigation-runtime-release-13 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\33439d82c7029708325d70c8c59613b0\transformed\navigation-runtime-release\res
+com.example.jetpackcomposetest.app-ui-release-14 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\39e1e461dc3151473b8a0990127ccae3\transformed\ui-release\res
+com.example.jetpackcomposetest.app-lifecycle-runtime-compose-release-15 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\3bbecc9f00d060cf7b4c23f25a2c7f08\transformed\lifecycle-runtime-compose-release\res
+com.example.jetpackcomposetest.app-material3-release-16 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\3c278de6a5f8003651528294a2dea013\transformed\material3-release\res
+com.example.jetpackcomposetest.app-startup-runtime-1.1.1-17 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\4c6ef8ce474215f76aeed256d2ad747f\transformed\startup-runtime-1.1.1\res
+com.example.jetpackcomposetest.app-animation-release-18 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\4dffea3e83edbcc562d2e26ddd718248\transformed\animation-release\res
+com.example.jetpackcomposetest.app-savedstate-release-19 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\681db1cf11318f916fcdec8ea2173da8\transformed\savedstate-release\res
+com.example.jetpackcomposetest.app-material-release-20 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\68532645602f362aabcde9a628db2f52\transformed\material-release\res
+com.example.jetpackcomposetest.app-animation-core-release-21 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\68a192b4851c6653d721844a126dbae5\transformed\animation-core-release\res
+com.example.jetpackcomposetest.app-tracing-1.2.0-22 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\69083691bcf24b7b58dbea24af1782d2\transformed\tracing-1.2.0\res
+com.example.jetpackcomposetest.app-navigation-common-release-23 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\6a1b0b8c273d85a542b69ec306c8db8e\transformed\navigation-common-release\res
+com.example.jetpackcomposetest.app-runtime-release-24 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\7346c9e687a28e60a872c7636d5d950b\transformed\runtime-release\res
+com.example.jetpackcomposetest.app-ui-util-release-25 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\8547877ec71b7386d07fb7a9c69846bf\transformed\ui-util-release\res
+com.example.jetpackcomposetest.app-ui-test-manifest-1.7.2-26 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\9a7eabec55113202ad87c8c9bfa5b4c6\transformed\ui-test-manifest-1.7.2\res
+com.example.jetpackcomposetest.app-foundation-release-27 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\a10bc64f60dd653756d3ae1a82df38d4\transformed\foundation-release\res
+com.example.jetpackcomposetest.app-core-runtime-2.2.0-28 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\a3034297eda9858796e78b917a80b981\transformed\core-runtime-2.2.0\res
+com.example.jetpackcomposetest.app-emoji2-1.3.0-29 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\a5f198daa6daf1a4a83059015c321067\transformed\emoji2-1.3.0\res
+com.example.jetpackcomposetest.app-core-1.15.0-30 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\a666b7cd7a0b0c6392d6e9733235acfa\transformed\core-1.15.0\res
+com.example.jetpackcomposetest.app-foundation-layout-release-31 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\b270c8c7793a55c321e2b449d20d6d79\transformed\foundation-layout-release\res
+com.example.jetpackcomposetest.app-savedstate-ktx-1.3.0-alpha10-32 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\cb03a87423879b12695306e9acf96291\transformed\savedstate-ktx-1.3.0-alpha10\res
+com.example.jetpackcomposetest.app-navigation-compose-release-33 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\cc86f0b79109802cd01fc3f7a0f9be54\transformed\navigation-compose-release\res
+com.example.jetpackcomposetest.app-core-ktx-1.15.0-34 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\d3c30079dc0aca81e0d3cd01bfbbea62\transformed\core-ktx-1.15.0\res
+com.example.jetpackcomposetest.app-activity-compose-1.10.1-35 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\d93c6d8fe138020864b2d73b7afbb360\transformed\activity-compose-1.10.1\res
+com.example.jetpackcomposetest.app-lifecycle-runtime-release-36 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\dbfc8b200b18208f42d63f8c52e98388\transformed\lifecycle-runtime-release\res
+com.example.jetpackcomposetest.app-runtime-saveable-release-37 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\df5ac1103039853defd0d6e2216ef163\transformed\runtime-saveable-release\res
+com.example.jetpackcomposetest.app-core-viewtree-1.0.0-38 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\e242ac1a3b06c313e6ade64d4655d5e9\transformed\core-viewtree-1.0.0\res
+com.example.jetpackcomposetest.app-lifecycle-viewmodel-ktx-2.9.0-alpha12-39 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\e96b0f12acadfdcc8ab8e6d8c9b82067\transformed\lifecycle-viewmodel-ktx-2.9.0-alpha12\res
+com.example.jetpackcomposetest.app-ui-tooling-preview-release-40 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\ebe2d83f4467ed4c07e3cf9ec21f8885\transformed\ui-tooling-preview-release\res
+com.example.jetpackcomposetest.app-material-icons-core-release-41 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\f0a73eb76f205497333dbdfdfcd19da0\transformed\material-icons-core-release\res
+com.example.jetpackcomposetest.app-lifecycle-viewmodel-compose-release-42 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\f0b62cc97d37a958bd869a2be5b3b803\transformed\lifecycle-viewmodel-compose-release\res
+com.example.jetpackcomposetest.app-ui-unit-release-43 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\f1d73c4f92e1b884775402e2ae27209d\transformed\ui-unit-release\res
+com.example.jetpackcomposetest.app-lifecycle-livedata-core-2.9.0-alpha12-44 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\f5cd5c06fa0a6aa40b697c64ca822a04\transformed\lifecycle-livedata-core-2.9.0-alpha12\res
+com.example.jetpackcomposetest.app-ui-geometry-release-45 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\fad82c86a766823cc47b60234c0ebfd4\transformed\ui-geometry-release\res
+com.example.jetpackcomposetest.app-activity-ktx-1.10.1-46 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\ff65317b13d7d372cec23be5afc0f4a1\transformed\activity-ktx-1.10.1\res
+com.example.jetpackcomposetest.app-pngs-47 E:\MobileAppDeveloper\BaiTapVeNha\bai_tap_tuan_3_1\app\build\generated\res\pngs\debug
+com.example.jetpackcomposetest.app-resValues-48 E:\MobileAppDeveloper\BaiTapVeNha\bai_tap_tuan_3_1\app\build\generated\res\resValues\debug
+com.example.jetpackcomposetest.app-packageDebugResources-49 E:\MobileAppDeveloper\BaiTapVeNha\bai_tap_tuan_3_1\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.jetpackcomposetest.app-packageDebugResources-50 E:\MobileAppDeveloper\BaiTapVeNha\bai_tap_tuan_3_1\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.jetpackcomposetest.app-debug-51 E:\MobileAppDeveloper\BaiTapVeNha\bai_tap_tuan_3_1\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.jetpackcomposetest.app-debug-52 E:\MobileAppDeveloper\BaiTapVeNha\bai_tap_tuan_3_1\app\src\debug\res
+com.example.jetpackcomposetest.app-main-53 E:\MobileAppDeveloper\BaiTapVeNha\bai_tap_tuan_3_1\app\src\main\res
