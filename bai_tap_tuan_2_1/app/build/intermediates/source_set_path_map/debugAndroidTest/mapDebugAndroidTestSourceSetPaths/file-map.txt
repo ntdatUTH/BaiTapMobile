@@ -1,0 +1,6 @@
+com.example.bai_tap_2_1.test.app-core-1.6.1-0 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\7a5e902a61b72cb639ddbf9d8559dbef\transformed\core-1.6.1\res
+com.example.bai_tap_2_1.test.app-tracing-1.2.0-1 C:\Users\Thanh Dat\.gradle\caches\8.10.2\transforms\c8f9103d706fc967f4d76757f0f4775b\transformed\tracing-1.2.0\res
+com.example.bai_tap_2_1.test.app-androidTest-2 E:\MobileAppDeveloper\BaiTap\bai_tap_tuan_2\app\build\generated\res\resValues\androidTest\debug
+com.example.bai_tap_2_1.test.app-mergeDebugAndroidTestResources-3 E:\MobileAppDeveloper\BaiTap\bai_tap_tuan_2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.bai_tap_2_1.test.app-mergeDebugAndroidTestResources-4 E:\MobileAppDeveloper\BaiTap\bai_tap_tuan_2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.bai_tap_2_1.test.app-debugAndroidTest-5 E:\MobileAppDeveloper\BaiTap\bai_tap_tuan_2\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
