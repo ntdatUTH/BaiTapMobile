@@ -2,6 +2,7 @@ package com.example.jetpackcomposetest
 
 import android.os.Bundle
 import android.util.Log
+import android.widget.Space
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
@@ -247,7 +248,7 @@ fun Detail_component(navController: NavController,content_btn: String){
             verticalArrangement = Arrangement.Center,
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
-
+            Spacer(modifier = Modifier.weight(1f))
             when (content_btn){
                 "Text" -> Text(
                     text = buildAnnotatedString {
@@ -313,14 +314,17 @@ fun Detail_component(navController: NavController,content_btn: String){
                         Text(text = "Cột 2", color = Color.Black, fontSize = 24.sp) }
 
             }
+            Spacer(modifier = Modifier.weight(1f))
+            Button(
+                onClick = {navController.navigate("intro")},
+//                modifier = Modifier.fillMaxWidth()
+                ) {
+                Text(
+                    text = "Back to Root"
+                )
+            }
 
         }
 
     }
 }
-//@Composable
-//fun GreetingPreview() {
-//    JetpackComposeTestTheme {
-//        Greeting("Android")
-//    }
-//}
