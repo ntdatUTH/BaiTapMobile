@@ -91,13 +91,8 @@ fun addScreen(viewModel: taskViewModel, navController: NavController){
         ) {
             Button(
                 onClick = {
-                    if (textTask.isNotBlank() && textDesc.isNotBlank()){
-                        viewModel.addTask(textTask, textDesc)
-                        Toast.makeText(context, "Thêm mới thành công", Toast.LENGTH_SHORT).show()
-                        navController.popBackStack()
-                    }else{
-                        Toast.makeText(context, "Thêm mới thất bại", Toast.LENGTH_SHORT).show()
-                    }
+                    if(viewModel.checkData(textTask, textDesc, context))
+                        navController.navigate("home")
                 },
                 colors = ButtonDefaults.buttonColors(
                     containerColor = Color(0xFF2196F3)
